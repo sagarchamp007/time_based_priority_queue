@@ -1,0 +1,18 @@
+OUTPUT is generated successfully as asked.
+
+Assumption-
+   1. if priority is not given, it is considered lowest priority(given highest value).
+   2.lower the value of priority,highest the priority to be given.
+   3.time format is correct.
+   4. input file in the same directory(main module directory).
+
+Requirements-
+   python 3 and above versions
+
+RUN-
+  python tbp_queue.py input_events.csv "2017/02/10 4:59"
+
+
+
+   
+   
